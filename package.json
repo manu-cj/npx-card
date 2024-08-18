@@ -1,0 +1,14 @@
+{
+  "name": "manu-cj",
+  "version": "1.0.1",
+  "description": "Description du package",
+  "main": "index.js",
+  "bin": {
+    "manu-cj": "./bin/card.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Votre Nom",
+  "license": "ISC"
+}
